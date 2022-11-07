@@ -22,7 +22,7 @@ namespace UI.Library.Infrastructure.Services.Helper
 
         private static List<string> GetSearchGoogleHtmlLinks(string htmlDocument)
         {
-            return new List<string> { "Smokeball", "", "" ,"the company is Smokeball"};
+            return new List<string> { "www.smokeball.com.au", "", "" , "the company is www.smokeball.com.au" };
         }
 
     }

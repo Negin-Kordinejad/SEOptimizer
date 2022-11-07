@@ -12,7 +12,7 @@ namespace UI.Business.Services
     public class UrlSearchService : BaseService, IUrlSearchService
     {
         private readonly ILogger<UrlSearchService> _logger;
-        private const string CompanyName = "smokeball";
+        private const string CompanyName = "www.smokeball.com.au";
         private const int MinResultSearch = 100;
         private readonly ISearchApiAgent _searchApiAgent;
 
